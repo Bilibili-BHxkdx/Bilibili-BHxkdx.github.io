@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>博物馆规则怪谈</title>
+    <style>
+    h1{
+        color:FireBrick;
+        text-align: center;
+    }
+    h3{
+        color:Red;
+        font-family:'Ma Shan Zheng';
+    }
+    p{
+        color:Gray;
+        
+    }
+    </style>
+</head>
+<body>
+    <p>作者：不会下库的屑＆红石漫剪</p>
+    <p>注：作者还未完成</p>
+    <h1>游客守则</h1>
+</body>
+</html>
